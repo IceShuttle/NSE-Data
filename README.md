@@ -6,7 +6,7 @@ You can download from Google Drive [Link Here](https://drive.google.com/drive/fo
 I found this data in the drive and have just linked to the drive. [I don't won them]
 
   Long time, I was searching for Nifty 50 stocks and index data for my strategy building and back testing. Finally I found this drive, where Nifty 50 and NSE Next 50 stock and index data are uploaded.  
-  The soul purpose to share this link is for research works, building live trading agents to automate trade, building strategies for intraday trade, back-test strategies. 
+  The sole purpose to share this link is for research works, building live trading agents to automate trade, building strategies for intraday trade, back-test strategies. 
   This folder contains stocks with different time intervals. Those are: 
 
     1 Minute, 
